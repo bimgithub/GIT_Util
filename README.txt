@@ -1,1 +1,1 @@
-These are useful git commands
+These are useful git commands and aliases.
